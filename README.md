@@ -8,5 +8,5 @@ Pour ce faire on utilise le dataset MNIST(aussi notMNIST) qui sont des images re
 
 # Objectifs
 
-Implementer un réseau de type : CNN + MLP pour la classication comparer ses performances à un MLP simple mais aussi à un RNN(LSTM) sur les données de la base MNIST
+Implementer un réseau de type : CNN + MLP pour la classication des images et comparer ses performances à un MLP simple mais aussi à un RNN(LSTM) sur les données du dataset MNIST
 
