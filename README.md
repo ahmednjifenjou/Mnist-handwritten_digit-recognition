@@ -1,1 +1,1 @@
-# Mnist-handwritten_digit-recognition
+# MNIST handwritten digit recognition
