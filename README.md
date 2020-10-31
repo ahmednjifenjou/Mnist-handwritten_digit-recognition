@@ -1,4 +1,4 @@
-# Reconnaissance de chiffre manuscrits
+# Reconnaissance de chiffres manuscrits
 
 # Contexte
 
